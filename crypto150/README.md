@@ -1,4 +1,4 @@
-#多表代替
+# 多表代替
 
 flag is HITCTF{the key used to encrypt the followings}
 HITCTF{wishingyouweresomehowhereagain}
